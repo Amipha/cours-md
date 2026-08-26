@@ -70,3 +70,5 @@ Valeur en eau µ du calorimètre : $C_{cal} = \micro \cdot c_{eau}$
 Tout se passe comme si la masse d'eau était $m_e + \micro$
 
 $$ H_{tot} = \sum_i{m_i\space c_i (T_f - T_i)} = 0 $$
+
+test
