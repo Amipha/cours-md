@@ -59,7 +59,8 @@ Unité : $J\cdot K^{-1}$
 
 ==Eau liquide : c = 4185== $J\cdot kg^{-1} \cdot K^{-1}$
 
-$$ \Delta H \approx \Delta U \approx m c \Delta T  $$
+
+À $\Delta V = cst$ :$$ \Delta H \approx \Delta U \approx m c \Delta T  $$
 
 # Calorimétrie
 
@@ -78,6 +79,7 @@ $$ H_{tot} = \sum_i{m_i\space c_i (T_f - T_i)} = 0 $$
 Pour un Gaz Parfait :
 $$ U = U(T) \Rightarrow dU = C_VdT $$
 (experience de Joule-Gay-Lussac)
+$$dU = mc \space d T$$
 
 $$ H = H(T) \Rightarrow dH = C_PdT $$
 (expérience de Joule-Thomson)
@@ -138,6 +140,20 @@ Interpretations :
 - Gaz réel : la température varie ! Sous la température d'inversion : refroidissement
 - Comme Joule-Gay-Lussac : transformation irréversible
 
+---
+# Second principe
+
+$$ \Delta S = S_{ech} + S_{cr} $$
+
+Où : 
+- $S_{ech} = \sum{\frac{Q_i}{T_{ext, i}}}$
+- $S_{cr} \geq 0$   si réversible $S_{cr} = 0$
+
+# Identités thermodynamiques
+- **Première identité :**
+$$dU = TdS - PdV$$
+- **Seconde identité :**
+$$dH = TdS + VdP$$
 
 
 

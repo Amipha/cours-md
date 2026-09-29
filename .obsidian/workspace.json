@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2055c858f05a1406",
+        "id": "4da6273127c0236a",
         "type": "tabs",
         "children": [
           {
-            "id": "d34222773fe16726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamique.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thermodynamique"
-            }
-          },
-          {
-            "id": "a711693b4934e2b3",
+            "id": "13bdb2c2dbb88c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.4964904785156
+    "width": 267.4964904785156,
+    "collapsed": true
   },
   "right": {
     "id": "0b695326d0f56934",
@@ -113,8 +100,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benjamin et l'extreme droite.md",
-                "collapseAll": false,
+                "file": "Thermodynamique.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -123,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rétroliens"
             }
           },
           {
@@ -175,16 +162,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benjamin et l'extreme droite.md",
+                "file": "Thermodynamique.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -202,9 +190,11 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "d34222773fe16726",
+  "active": "13bdb2c2dbb88c4b",
   "lastOpenFiles": [
-    "English.md",
-    "Thermodynamique.md"
+    "Elec.md",
+    "Thermodynamique.md",
+    "Developpement Web.md",
+    "English.md"
   ]
 }
